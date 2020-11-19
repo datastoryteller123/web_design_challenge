@@ -3,6 +3,7 @@
 The Web Visualizations Folder consists of the following:
 
 Resources:
+
     Assets Folder:
 
         Images:
