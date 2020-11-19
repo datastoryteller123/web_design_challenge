@@ -4,6 +4,7 @@ The Web Visualizations Folder consists of the following:
 
 Resources:
     Assets Folder:
+
         Images:
         Fig 1: Latitude vs Temperature
         Fig 2: Latitude vs Humidity
@@ -13,6 +14,7 @@ Resources:
     cities.csv - Dataset
 
 Visualizations:
+
     Comparison Page:
         comparison.html
 
@@ -29,7 +31,7 @@ Visualizations:
         windspeed.html
         
     Landing Page:
-        landing_page.html
+        index.html
 
 style.css
 
